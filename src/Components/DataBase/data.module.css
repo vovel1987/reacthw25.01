@@ -1,0 +1,13 @@
+.data{
+    width:300px;
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+    height: 100px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+    gap: 10px;
+}
